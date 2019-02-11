@@ -7,7 +7,7 @@ pipeline {
 	      stage('FIRST-JOB'){
 	        steps
           {
-	    git 'https://github.com/rubeenashaik/task7.git'
+	    git 'https://github.com/sanugommula/7thTask.git'
 	        }
 	  }
 	        stage('Example') {
